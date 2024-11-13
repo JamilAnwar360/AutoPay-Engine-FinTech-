@@ -1,7 +1,8 @@
 # AutoPay-Engine-FinTech-
- Introduction
-1.1 Purpose
-The purpose of this document is to specify the requirements for the Bulk Salary Processing System for a corporate banking environment. This system will enable organizations (e.g., European banks) to process bulk salary payments for their employees in a seamless, efficient, and compliant manner. The system will handle over one million salary records, complete with necessary validations, debit/credit transactions, and reporting.
+
+# Introduction
+# Purpose
+The Bulk Salary Processing System will enable organizations to handle large-scale salary transactions, supporting over one million salary records. It will streamline the salary disbursement process by incorporating robust validations, efficient debit and credit handling, and comprehensive reporting mechanisms.
 
 # Key Features
 Bulk Processing:
